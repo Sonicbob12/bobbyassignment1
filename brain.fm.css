@@ -1,0 +1,15 @@
+label { 
+    width: 60px;
+    display: block !important;
+}
+
+.div-pad {
+  margin-top: 10px;  
+}
+
+#sign-in {
+    background-color: red; color: #ffffff; 
+}
+#try-for-free {
+    background-color: orange; color: #ffffff; 
+}
