@@ -1,3 +1,10 @@
+.background section-1 {
+    background-color: #5a5fe3;
+}
+
+
+
+
 label { 
     width: 60px;
     display: block !important;
@@ -8,7 +15,7 @@ label {
 }
 
 #sign-in {
-    background-color: red; color: #ffffff; 
+    background-color: rgb(40, 93, 215); color: #5a5fe3; 
 }
 #try-for-free {
     background-color: orange; color: #ffffff; 
