@@ -22,5 +22,5 @@ body {
     background-color: transparent; color: white; border: none;
 }
 #try-for-free {
-    background-color: orange; color: white; border-start-end-radius: 15px;
+    background-color: orange; color: white; border-radius: 15px;
 }
