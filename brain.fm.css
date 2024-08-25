@@ -1,13 +1,15 @@
-.background section-1 {
-    background-color: #5a5fe3;
+.section-1 {
+    background-color: blue;
 }
-
+.container {
+    text-align: right;
+}
 
 
 
 label { 
     width: 80px;
-    display: block !important;
+    display: block-inline !important;
 }
 
 .div-pad {
@@ -15,8 +17,8 @@ label {
 }
 
 #sign-in {
-    background-color: rgb(40, 93, 215); color: #5a5fe3; 
+    background-color: blue; color: white; 
 }
 #try-for-free {
-    background-color: orange; color: #ffffff; 
+    background-color: orange; color: white; 
 }
