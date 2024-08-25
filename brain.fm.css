@@ -1,5 +1,5 @@
 .section-1 {
-    background-color: blue;
+    background-color: blue; color: white; display: flex;
 }
 .container {
     text-align: right
