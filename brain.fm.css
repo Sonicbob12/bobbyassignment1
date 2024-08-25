@@ -12,8 +12,9 @@ label {
     display: block-inline !important;
 }
 
-.div-pad {
-  margin-top: 0px;  
+body {
+  margin: 0px; 
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
 
 #sign-in {
