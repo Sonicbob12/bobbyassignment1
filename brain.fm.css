@@ -2,16 +2,16 @@
     background-color: blue; color: white;
      display: flex; flex-direction: row; align-items: center;
 }
+
+
+
+
 .container {
-    text-align: right; 
+    
 }
 
 
 
-label { 
-    width: 80px;
-    display: block-inline !important;
-}
 
 body {
   margin: 0px; 
@@ -20,7 +20,6 @@ body {
 
 #sign-in {
     background-color: transparent; color: white; border: none;
-
 }
 #try-for-free {
     background-color: orange; color: white; border-start-end-radius: 15px;
