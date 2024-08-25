@@ -21,4 +21,5 @@ body {
 }
 #try-for-free {
     background-color: orange; color: white; border-radius: 15px;
+     border: none;
 }
