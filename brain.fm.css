@@ -1,8 +1,9 @@
 .section-1 {
-    background-color: blue; color: white; display: flex;
+    background-color: blue; color: white;
+     display: flex; flex-direction: center;
 }
 .container {
-    text-align: right
+    text-align: right; 
 }
 
 
