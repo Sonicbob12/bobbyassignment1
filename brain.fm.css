@@ -4,11 +4,7 @@
 }
 
 
-
-
-input [type='button'] {padding: 50px;}
-
-
+input [type='button'] {padding: 100px;}
 
 
 body {
@@ -22,4 +18,8 @@ body {
 #try-for-free {
     background-color: orange; color: white; border-radius: 15px;
      border: none;
+}
+
+.headline-1 {
+    font-size: 50px;
 }
