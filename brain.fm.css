@@ -1,6 +1,8 @@
 .section-1 {
-    background-color: blue; color: white;
-     display: flex; flex-direction: row; 
+    background-color: hwb(240 30% 16%);  
+    color: white;
+     display: flex; 
+     flex-direction: row; 
      justify-content: space-between; 
      align-items: center;
 
