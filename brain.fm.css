@@ -26,8 +26,8 @@ body {
 }
 
 .headline-1 {
-    font-size:large ; font-weight:125px;
+    font-size: 20px ; font-weight:bold;
 }
 .headline-2 {
-    font-size:larger ; font-weight:240px; 
+    font: size 25px; ; font-weight:bold; 
 }
