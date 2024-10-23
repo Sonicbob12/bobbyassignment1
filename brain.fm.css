@@ -45,7 +45,7 @@ body, html {
 
 .hero-content h1 {
     font-size: 48px;
-    justify-content: nowrap;
+    white-space: nowrap;
 }
 
 .hero-content h2 {
