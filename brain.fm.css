@@ -71,6 +71,7 @@ justify-content: space-between;
 
 .featured-section {
     text-align: center;
+    font-size: 20px;
     padding: 30px;
     margin: 30px 0;
     background-color: #3B3AFF;
