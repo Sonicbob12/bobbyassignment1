@@ -3,7 +3,7 @@ body, html {
     margin: 0;
     padding: 0;
     font-family: 'Arial', sans-serif;
-    background-color: #2D2BFF;
+    background-color: #3b3fcd;
     color: white;
 }
 
@@ -73,7 +73,7 @@ justify-content: space-between;
     text-align: center;
     padding: 30px;
     margin: 30px 0;
-    background-color: #2d2bff;
+    background-color: #3b3fcd;
 }
 
 .featured-section p {
