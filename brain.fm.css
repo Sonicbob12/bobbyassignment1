@@ -101,6 +101,7 @@ justify-content: space-between;
 
 .science-content h4 {
     font-size: 24px;
+    justify-content: center;
 }
 
 .science-content p {
