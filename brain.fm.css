@@ -85,7 +85,7 @@ justify-content: space-between;
 }
 
 .science-section {
-    text-align: center;
+    text-align:start;
     padding: 50px;
 }
 
